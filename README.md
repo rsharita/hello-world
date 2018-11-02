@@ -1,5 +1,5 @@
 # hello-world
-Le'ts  learnGitHub
+Let's  learnGitHub
 The O&G industry is dying a slow death. 
 I want to get into the software industry.
 
